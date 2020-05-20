@@ -1,0 +1,2 @@
+# qrcp_node
+ 尝试用node实现类似qrcp的功能
